@@ -1,7 +1,7 @@
 print("mayo epa")
 
-if (True) {
+if (True):
     print("true")
-} else {
+else:
     print("false")
-}
+
