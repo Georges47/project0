@@ -1,6 +1,6 @@
 print("mayo epa")
 
-if (True):
+if True & False:
     print("true")
 else:
     print("false")
