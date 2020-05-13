@@ -11,9 +11,9 @@ keys = [False, False, False, False]  # WASD
 playerPosition = [100, 100]
 
 # Load resources
-player = pygame.image.load("/home/dimi/Desktop/dim")
+player = pygame.image.load("/dim")
 player = pygame.transform.scale(player, (100, 100))
-background = pygame.image.load("/home/dimi/Desktop/grass")
+background = pygame.image.load("/grass")
 
 # Loop game
 while 1:
